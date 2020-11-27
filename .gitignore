@@ -1,0 +1,16 @@
+*
+!/**/
+!*.*
+
+*.exe
+megatest
+megatest.nim
+outputExpected.txt
+outputGotten.txt
+testresults
+*.db
+migrations/bin
+nimcache/
+nimblecache/
+htmldocs/
+.vscode/
