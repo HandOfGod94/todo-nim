@@ -11,3 +11,5 @@ bin           = @["todo"]
 # Dependencies
 
 requires "nim >= 1.4.0"
+requires "norm >= 2.2.2"
+requires "norman >= 2.1.0"
